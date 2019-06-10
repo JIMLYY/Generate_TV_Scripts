@@ -1,6 +1,6 @@
 # Generate_TV_Scripts
 ## Introduction
-Image that your job is to write a script for a televsion show. You could definitely write the script manually. 
+Imagine that your job is to write a script for a televsion show. You could definitely write the script manually. 
 But you could also just have a computer do it for you, which can be achieved by using a recurrent neural network (RNN). 
 This project is a part of Deep learning nagodegree at Udacity. In this project, I generated "fake" Seinfeld TV scripts using 
 RNNs based on a Seinfeld dataset of scripts from 9 seasons.  
