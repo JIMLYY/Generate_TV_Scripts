@@ -27,7 +27,9 @@ RNNs based on a Seinfeld dataset of scripts from 9 seasons.
    - ```jupyter notebook```
 * Run the cell of jupyter notebook by pressing shift + return/enter
 
-
+## Demo
+### These are the scripts created my neural nets...
+![scripts](Demo/my_scripts.png)
 ## Try it for yourself
 1. This is a good project to check your unstanding of the RNN basics. 
 The original repo can be found at ```https://github.com/udacity/deep-learning-v2-pytorch.git```.
